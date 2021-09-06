@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Compose Sample</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_constrain_test">ConstrainTestActivity</string>
+</resources>
